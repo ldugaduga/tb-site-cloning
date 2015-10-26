@@ -1,0 +1,23 @@
+#header {
+	background: url(images/banner.jpg) no-repeat;
+	background-size: cover;
+	color: #fff;
+}
+
+.logo {
+	padding-top: 10px;
+}
+
+.nav-top {
+	padding: 40px 0;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.hero-part {
+	padding: 10% 0;
+	text-align: center;
+}
+
+	.hero-part h1{
+		font-size: 65px;
+	}
