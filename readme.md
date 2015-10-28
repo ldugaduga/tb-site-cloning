@@ -8,3 +8,7 @@ guwaping
 
 # Sammy Pogs on the haws
 cool dude
+
+# Testing notification
+
+push lng
