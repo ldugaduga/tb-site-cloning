@@ -20,4 +20,25 @@
 
 	.hero-part h1{
 		font-size: 65px;
+		font-weight: bold;
+		margin-bottom: 20px;
+
 	}
+
+	.hero-part p {
+		font-size: 22px;
+		margin-bottom: 40px;
+	}
+
+.nav>li>a {
+	color: #fff; 
+	font-size: 14px;
+	text-transform: uppercase; 
+	font-weight: bold;
+	letter-spacing: 2px;
+
+
+}
+.nav>li>a:hover{
+	color: #337ab7
+}
