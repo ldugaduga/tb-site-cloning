@@ -1,3 +1,9 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	line-height: 22.4px;
+	color: #6c7279;
+}
 #header {
 	background: url(images/banner.jpg) no-repeat;
 	background-size: cover;
@@ -22,25 +28,19 @@
 		font-size: 65px;
 		font-weight: bold;
 		margin-bottom: 20px;
-
 	}
 
 	.hero-part p {
 		font-size: 22px;
 		margin-bottom: 40px;
-{
-
 }
-		
-	}
 
 .nav>li>a {
 	color: #fff; 
-	font-size: 14px;
+	font-size: 16px;
 	text-transform: uppercase; 
-	font-weight: bold;
-	letter-spacing: 2px;
-
+	font-weight: 700;
+	font-family: 'Droid Sans', sans-serif;
 }
 .nav>li>a:hover{
 	color: #337ab7
@@ -52,25 +52,16 @@
 
 #feature i {
 	font-size: 67px
-	
 }
-h4 {
+
+#feature h4 {
 	font-size: 14px;
 	color:#2d3033;
 	text-transform: uppercase;
 	font-weight: 700;
-
 }
 
-i {
+#feature i {
 	color: #e84545;
-    font-size: 60px;
-
-	
-}
-
-p {
-    font-size: 14px;
-    line-height: 22.4px;
-    color: #6c7279;
+  font-size: 60px;
 }
